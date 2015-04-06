@@ -1,2 +1,2 @@
 # node-journal
-node notes and resource.
+node notes and resources.
